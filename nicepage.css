@@ -41812,11 +41812,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -51px 0 23px auto;
+  margin: -72px auto 32px 113px;
 }
 
 .u-header .u-nav-1 {
+  font-weight: 700;
   font-size: 1rem;
+  text-transform: uppercase;
 }
 
 .u-header .u-nav-2 {
@@ -41831,7 +41833,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -51px;
+    margin-top: -72px;
+    margin-left: 113px;
   }
 
   .u-header .u-nav-1 {
