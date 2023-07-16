@@ -41271,6 +41271,7 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
@@ -41381,9 +41382,10 @@ a.u-link.u-text-hover-grey-90:hover {
         p:not(.u-text-variant)
         {
         font-size: 1.125rem;
-        margin-top: 20px;
-        margin-bottom: 20px;
+        margin-top: 7px;
+        margin-bottom: 11px;
         line-height: 1.6;
+        font-weight: 300;
         }
         a
         {
