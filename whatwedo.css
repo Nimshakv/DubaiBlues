@@ -1536,12 +1536,12 @@
 .u-section-6 .u-text-1 {
   font-weight: 600;
   font-size: 1.5rem;
-  margin: 32px 0 0 calc(((100% - 1140px) / 2) + -30px);
+  margin: 32px 50px 0;
 }
 
 .u-section-6 .u-text-2 {
   font-weight: 400;
-  margin: 20px 0 0 calc(((100% - 1140px) / 2) + -30px);
+  margin: 20px 50px 0;
 }
 
 .u-section-6 .u-image-1 {
@@ -1590,16 +1590,18 @@
 
 .u-section-6 .u-text-7 {
   font-weight: 400;
-  margin: 151px 0 60px calc(((100% - 1140px) / 2));
+  margin: 151px 50px 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-6 .u-text-1 {
-    margin-left: calc(((100% - 940px) / 2));
+    margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-6 .u-text-2 {
-    margin-left: calc(((100% - 940px) / 2));
+    margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-6 .u-image-1 {
@@ -1644,19 +1646,12 @@
   }
 
   .u-section-6 .u-text-7 {
-    margin-left: calc(((100% - 940px) / 2));
+    margin-right: 0;
+    margin-left: 0;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-6 .u-text-1 {
-    margin-left: calc(((100% - 720px) / 2));
-  }
-
-  .u-section-6 .u-text-2 {
-    margin-left: calc(((100% - 720px) / 2));
-  }
-
   .u-section-6 .u-image-1 {
     margin-right: calc(((100% - 720px) / 2) + 32px);
   }
@@ -1692,10 +1687,6 @@
     margin-right: calc(((100% - 720px) / 2));
     margin-left: calc(((100% - 720px) / 2) + 150px);
   }
-
-  .u-section-6 .u-text-7 {
-    margin-left: calc(((100% - 720px) / 2));
-  }
 }
 
 @media (max-width: 767px) {
@@ -1705,11 +1696,6 @@
 
   .u-section-6 .u-text-1 {
     font-size: 1rem;
-    margin-left: calc(((100% - 540px) / 2));
-  }
-
-  .u-section-6 .u-text-2 {
-    margin-left: calc(((100% - 540px) / 2));
   }
 
   .u-section-6 .u-image-1 {
@@ -1754,23 +1740,11 @@
     margin-right: calc(((100% - 540px) / 2));
     margin-left: calc(((100% - 540px) / 2));
   }
-
-  .u-section-6 .u-text-7 {
-    margin-left: calc(((100% - 540px) / 2));
-  }
 }
 
 @media (max-width: 575px) {
    .u-section-6 {
     min-height: 2296px;
-  }
-
-  .u-section-6 .u-text-1 {
-    margin-left: calc(((100% - 340px) / 2));
-  }
-
-  .u-section-6 .u-text-2 {
-    margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-section-6 .u-image-1 {
@@ -1822,10 +1796,6 @@
   .u-section-6 .u-text-6 {
     margin-top: -165px;
     margin-right: calc(((100% - 340px) / 2));
-    margin-left: calc(((100% - 340px) / 2));
-  }
-
-  .u-section-6 .u-text-7 {
     margin-left: calc(((100% - 340px) / 2));
   }
 }
